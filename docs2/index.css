@@ -21,7 +21,7 @@ body {
 
 .two {
   grid-area: 1 / 4 / 5 / 6;
-  background-image: url("kredki.JPG");
+  background-image: url("d.JPG");
   background-color: black;
   background-size: cover;
   background-position: center;
@@ -37,7 +37,7 @@ body {
 
 .four {
   grid-area: 5 / 3 / 7 / 6;
-  background-image: url("ru.jpg");
+  background-image: url("a.jpg");
   background-color: black;
   background-size: cover;
   background-position: center;
