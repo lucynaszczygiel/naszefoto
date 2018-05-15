@@ -13,7 +13,7 @@ body {
 
 .one {
   grid-area: 1 / 1 / 4 / 4;
-  background-image: url("li.jpg");
+    background-image: url("IMGP0825.JPG);
   background-color: black;
   background-size: cover;
   background-position: center;
@@ -29,7 +29,7 @@ body {
 
 .three {
   grid-area: 4 / 1 / 7 / 3;
-  background-image: url("ru2.jpg");
+  background-image: url("IMGP0789.JPG");
   background-color: black;
   background-size: cover;
   background-position: center;
@@ -45,7 +45,7 @@ body {
 
 .five {
   grid-area: 4 / 3 / 5 / 4;
-  background-image: url("no.jpg");
+  background-image: url("IMGP0621.JPG");
   background-color: black;
   background-size: cover;
   background-position: center;
